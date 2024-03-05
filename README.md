@@ -1,6 +1,4 @@
-# ToDoList
-A very simple To Do list where you can create and remove tasks
-
+# To Do List
 
 This project is an example of a to do list using node.js. 
 
